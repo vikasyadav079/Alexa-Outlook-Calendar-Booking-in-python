@@ -1,0 +1,15 @@
+meeting_welcome: Welcome. How may I serve you for booking meeting room. 
+meeting_welcome_prompt: It seems you are busy. Please let me know once you are ready 
+meeting_check_meeting_rooms: Following rooms are available for this schedule {{ available_rooms }}. Would you like to book ?
+meeting_check_meeting_room_single_success: Yes meeting room {{ meeting_room }} is available on {{ meeting_date }} from {{start_time }} to {{end_time }}. Would you like to book this meeting room ?
+meeting_check_meeting_room_single_fail: No this meeting room is not available on this schedule
+meeting_check_meeting_room_confirmation_success:  Sure. Following rooms are available 
+meeting_check_meeting_room_confirmation_fail: Not Sure. Kindly enter the details again 
+meeting_send_invite_sender_receiver: Who is the sender of this invitation
+meeting_send_invite_agenda: What is the agenda of meeting. 
+meeting_sent_invite: Meeting Invite has been sent. Kindly check mail box. 
+meeting_invite_cancel: Meeting invite has been canceled.
+meeting_confirm_meeting:  What should be the subject line for this invitation
+meeting_confirm_meeting_prompt: Kindly let me know if you would like to book this meeting room 
+meeting_decline_meeting: Meeting invite declined.
+meeting_descrption: <html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definitions */\n@font-face\n {font-family:"Cambria Math"\;\n panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n {font-family:Calibri\;\n  panose-1:2 15 5 2 2 2 4 3 2 4\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n  {margin:0in\;\n margin-bottom:.0001pt\;\n font-size:11.0pt\;\n  font-family:"Calibri"\,sans-serif\;}\na:link\, span.MsoHyperlink\n  {mso-style-priority:99\;\n color:#0563C1\;\n text-decoration:underline\;}\na:visited\, span.MsoHyperlinkFollowed\n {mso-style-priority:99\;\n  color:#954F72\;\n  text-decoration:underline\;}\nspan.EmailStyle17\n {mso-style-type:personal-compose\;\n font-family:"Calibri"\,sans-serif\;\n color:windowtext\;}\n.MsoChpDefault\n {mso-style-type:export-only\;\n font-family:"Calibri"\,sans-serif\;}\n@page WordSection1\n  {size:8.5in 11.0in\;\n  margin:1.0in 1.0in 1.0in 1.0in\;}\ndiv.WordSection1\n {page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><body lang=EN-US link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal>Hi All Kindly join the meeting the room on time. <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>{{meeting_agenda}}<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>Thanks <o:p></o:p></p><p class=MsoNormal>{{sender_name}}<o:p></o:p></p></div></body></html>

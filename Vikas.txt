@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Vikas Time ZoneIndia Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:Vikas Time Zone+0530
+TZOFFSETTo:Vikas Time Zone+0530
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="^Ind_Magarpatta_T6_BU_ Saphire_Big_Meeting_Room (VC)";CUTYPE=R
+	ESOURCE;ROLE=NON-PARTICIPANT;RSVP=TRUE:mailto:TowerVIBUSaphire@Amdocs.com
+CLASS:PUBLIC
+CREATED:20180529T121411Z
+DESCRIPTION:Hi All Kindly join the meeting the room on time. \n\n \n\nIts r
+	egarding testing Angular 2.\n\n \n\nThanks \n\nVikas Yadav \n\n
+DTEND;TZID="India Standard Time":20180601T113000
+DTSTAMP:20180529T120934Z
+DTSTART;TZID="India Standard Time":20180601T110000
+LAST-MODIFIED:20180529T121411Z
+LOCATION:^Ind_Magarpatta_T6_BU_ Saphire_Big_Meeting_Room (VC)
+ORGANIZER;CN="Vikas Yadav":mailto:Vikas.Yadav@amdocs.com
+PRIORITY:5
+RESOURCES:^Ind_Magarpatta_T6_AU_ Colosseum_Big_Meeting_Room (VC),^Ind_Magar
+	patta_T6_AU_Senate House_Small_Meeting_Room,^Ind_Magarpatta_T6_Cafetaria,^
+	Ind_Magarpatta_T6_Daffodil_Meeting_Room (VC),^Ind_Magarpatta_T6_Nirvana_Me
+	eting Room (VC),^Ind_Magarpatta_T6_Tulip_Meeting_Room(VC)
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Testing for alexa. Tenporary booking of meeting
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000008029AF0174F7D301000000000000000
+	010000000427BEBE2AE9E4B4AA724C9B0973DFCFA
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5
+	 4 6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2
+	 4 3 2 4\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.Mso
+	Normal\n	{margin:0in\;\n	margin-bottom:.0001pt\;\n	font-size:11.0pt\;\n	fo
+	nt-family:"Calibri"\,sans-serif\;}\na:link\, span.MsoHyperlink\n	{mso-styl
+	e-priority:99\;\n	color:#0563C1\;\n	text-decoration:underline\;}\na:visite
+	d\, span.MsoHyperlinkFollowed\n	{mso-style-priority:99\;\n	color:#954F72\;
+	\n	text-decoration:underline\;}\nspan.EmailStyle17\n	{mso-style-type:perso
+	nal-compose\;\n	font-family:"Calibri"\,sans-serif\;\n	color:windowtext\;}\
+	n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-family:"Calibri"\,s
+	ans-serif\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0
+	in 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!
+	--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n<
+	/xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<
+	o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head
+	><body lang=EN-US link="#0563C1" vlink="#954F72"><div class=WordSection1><
+	p class=MsoNormal>Hi All Kindly join the meeting the room on time. <o:p></
+	o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>Its re
+	garding testing Angular 2.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</
+	o:p></p><p class=MsoNormal>Thanks <o:p></o:p></p><p class=MsoNormal>Vikas 
+	Yadav <o:p></o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20180529T120934Z
+X-MS-OLK-AUTOFILLLOCATION:TRUE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN=^Ind_Magarpatta_T6_Daffodil_Meeting_Room (VC);CUTYPE=RESOURCE;ROLE=NON-PARTICIPANT;RSVP=TRUE:mailto:daffodil
+ATTENDEE;CN=vikasyadav079@outlook.com;RSVP=TRUE:mailto:vikasyadav079@outlook.com
+ATTENDEE;CN=vikas.yadav.a079@outlook.com;RSVP=TRUE:mailto:vikas.yadav.a079@outlook.com
+CLASS:PUBLIC
+CREATED:20180601T212649Z
+DESCRIPTION:Hi All Kindly join the meeting the room on time. \n\n \n\nhuddle\n\n \n\nThanks \n\n\n\n
+DTEND;TZID="India Standard Time":20180601T113000Z
+DTSTAMP:20180601T212649Z
+DTSTART;TZID="India Standard Time":20180601T110000Z
+LAST-MODIFIED:20180601T212649Z
+LOCATION:^Ind_Magarpatta_T6_Daffodil_Meeting_Room (VC)
+ORGANIZER;CN="":mailto:vikasyadav.a079@outlook.com
+PRIORITY:5
+RESOURCES:^Ind_Magarpatta_T6_AU_ Colosseum_Big_Meeting_Room (VC), ^Ind_Magarpatta_T6_AU_Senate House_Small_Meeting_Room, ^Ind_Magarpatta_T6_Cafetaria, ^Ind_Magarpatta_T6_Daffodil_Meeting_Room (VC), ^Ind_Magarpatta_T6_Nirvana_Meeting Room (VC), ^Ind_Magarpatta_T6_Tulip_Meeting_Room(VC)
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:huddle
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000703FC36ECDF8D301000000000000000010000000AB63908CFB151A4BB215A64723BAC267
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definitions */\n@font-face\n {font-family:"Cambria Math"\;\n panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n {font-family:Calibri\;\n  panose-1:2 15 5 2 2 2 4 3 2 4\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n  {margin:0in\;\n margin-bottom:.0001pt\;\n font-size:11.0pt\;\n  font-family:"Calibri"\,sans-serif\;}\na:link\, span.MsoHyperlink\n  {mso-style-priority:99\;\n color:#0563C1\;\n text-decoration:underline\;}\na:visited\, span.MsoHyperlinkFollowed\n {mso-style-priority:99\;\n  color:#954F72\;\n  text-decoration:underline\;}\nspan.EmailStyle17\n {mso-style-type:personal-compose\;\n font-family:"Calibri"\,sans-serif\;\n color:windowtext\;}\n.MsoChpDefault\n {mso-style-type:export-only\;\n font-family:"Calibri"\,sans-serif\;}\n@page WordSection1\n  {size:8.5in 11.0in\;\n  margin:1.0in 1.0in 1.0in 1.0in\;}\ndiv.WordSection1\n {page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><body lang=EN-US link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal>Hi All Kindly join the meeting the room on time. <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>huddle<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>Thanks <o:p></o:p></p><p class=MsoNormal><o:p></o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20180601T212649Z
+X-MS-OLK-AUTOFILLLOCATION:TRUE
+X-MS-OLK-CONFTYPE:0
+EGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
